@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4737Dz0KNw/B4zlnVtOKS1HjXbcfpZmqXqifpqxyPnzS90cxH5GLZrWHF2WtyjR+iyekUJ7Sf958yt8WLifckw==",
+  "success": true,
+  "projectFilePath": "D:\\MyProgs\\Player\\Player\\Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dyha0\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
+    "C:\\Users\\dyha0\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512",
+    "C:\\Users\\dyha0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

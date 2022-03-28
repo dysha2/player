@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86cf1190-aa51-40c7-a143-c51f7133da76": {
+      "ProjectGuid": "86cf1190-aa51-40c7-a143-c51f7133da76",
+      "DisplayName": "Player",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
